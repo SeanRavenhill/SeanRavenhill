@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width="200" height="200" />
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" height="200" />
 
 - 👋  Hi, I’m @SeanRavenhill
 
