@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" height="200" />
 
-- Hi, I’m @SeanRavenhill 👋 
+- Hi, I’m Sean 👋 
 
 - I’m a survivor of the advertising industry and a reformed pixel pushing graphic and digital designer.
 
