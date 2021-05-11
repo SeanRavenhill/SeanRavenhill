@@ -7,5 +7,3 @@
 - I'm now deep into my journey of a career pivot into the world of programming and data analysis & science. 
 
 - I’m currently learning all things 🐍
-
-- I'll add more here when it's not 1:30am and I'm spend from an entire day of studying and coding...
