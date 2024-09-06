@@ -11,7 +11,7 @@ Here’s a snapshot of my current progress:
 #### Front-End Engineer Career Path:
 - **Web Foundations**: HTML, CSS, Deploying Websites (100% complete)
 - **Improved Styling with CSS**: Responsive Design, CSS Transitions & Animations (100% complete)
-- **Building Interactive Websites**: JavaScript, Accessibility, Git/GitHub (Certification: 100%)
+- **Building Interactive Websites**: JavaScript, Accessibility, Git/GitHub (100% complete)
 - **Front-End Development**: JavaScript, React, Redux (94% complete)
 - **Advanced Web Development & Interview Prep**: Data structures, Algorithms (In progress)
 
