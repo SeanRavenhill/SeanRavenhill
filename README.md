@@ -2,23 +2,13 @@
 
 ### Hi, I’m Sean 👋 
 
-I'm a front-end developer with 20 months of hands-on experience, specializing in creating responsive and user-friendly web applications. With 15 years in graphic and digital design, I combine technical expertise with creative problem-solving to build modern solutions.
+I'm a Front-end Developer with 2+ years of hands-on experience, specializing in creating responsive and user-friendly web applications.
 
-Currently, I’m working through the Codecademy Front-End Engineer Career Path, where I've been learning everything from HTML/CSS fundamentals to React, testing with JavaScript, and building responsive web applications. I’m also diving into Computer Science certifications to strengthen my understanding of Python, algorithms, data structures, and databases.
+My current tech stack includes JavaScript, TypeScript and React.js.
 
-Here’s a snapshot of my current progress:
+I’m interested in modern UI motion & web animations, component architecture, and web performance & scalability.
 
-#### Front-End Engineer Career Path:
-- **Web Foundations**: HTML, CSS, Deploying Websites (100% complete)
-- **Improved Styling with CSS**: Responsive Design, CSS Transitions & Animations (100% complete)
-- **Building Interactive Websites**: JavaScript, Accessibility, Git/GitHub (100% complete)
-- **Front-End Development**: JavaScript, React, Redux (94% complete)
-- **Advanced Web Development & Interview Prep**: Data structures, Algorithms (In progress)
+A notable achievement in my career was integrating custom GSAP animations into the Afundi website, which earned an Honourable Mention on AWWWARDS for its UI and motion design.
 
-#### Computer Science Certification:
-- **Intro to Programming**: Python fundamentals, Data Structures (98% complete)
-- **Algorithms & Data Structures**: Linked Lists, HashMaps, Dynamic Programming (40% complete)
-- **Databases**: SQL, PostgreSQL, Designing Relational Databases (In progress)
-- **Math for Computer Science**: Discrete Math (In progress)
+With 15+ years previously spent in graphic and digital design, I provide a great understanding and appreciation of UI/UX, combined with technical expertise translating designs into clean, functional, and high-performing code.
 
-I enjoy solving logic problems and staying open to learning new tools and trends, with a focus on proven industry standards. Coding is a journey of continuous learning for me, and I’m excited about where it’s taking me.
